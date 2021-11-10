@@ -1,0 +1,1 @@
+Hey! This my first js project, it's rock paper scissors.
